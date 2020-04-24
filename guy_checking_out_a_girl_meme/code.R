@@ -27,6 +27,7 @@ p1 <-
   ) +
   # make grid squares
   coord_equal() +
+  # coord_polar() +
   # add themes
   theme_bw() +
   theme(
